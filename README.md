@@ -1,7 +1,9 @@
 # CyberDog2-
 CyberDog2仿生机器狗目标跟踪应用研究
 
-This project can enable the CyberDog2 to track a red ball in real time
+该项目可使 CyberDog2 实时跟踪红球
+
+将该 “src ”文档放入 /SDCARD/my_ws 中
 
 
 run dog by teleop command:
